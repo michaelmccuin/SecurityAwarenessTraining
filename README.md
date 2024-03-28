@@ -15,8 +15,6 @@
   - Highlight real-world impact with SEGA case study.
   - Encourage best practices and responsible disclosure in the cybersecurity community.
 
-🔒 <b>**Secure AWS S3: Learn, Protect, Share**<b>
-
 <h2>Project Walk-Through:</h2>
 
 **Step 1: Identifying the Opportunity**  
